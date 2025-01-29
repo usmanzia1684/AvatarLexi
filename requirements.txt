@@ -1,4 +1,4 @@
 whisper
-coqui-ai
+TTS
 flask
 gunicorn
