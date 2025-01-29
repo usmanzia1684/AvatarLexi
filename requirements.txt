@@ -1,0 +1,4 @@
+whisper
+coqui-ai
+flask
+gunicorn
